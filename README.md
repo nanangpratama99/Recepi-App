@@ -55,9 +55,6 @@ Start the server
 
 <img width="500" alt="new-3-phone" src="https://github.com/nanangpratama99/Recepi-App/assets/111034379/59ea4a95-8592-4484-9c0c-62b5cbc7958c">
 
-## 🚀 About Me
-⚡️ Fun fact : Trust me, I'm not a Wibu 😄...
-
 
 ## Authors
 
